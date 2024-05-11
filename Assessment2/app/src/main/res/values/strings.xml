@@ -1,11 +1,9 @@
 <resources>
     <string name="app_name">MoneyMe</string>
-    <string name="intro">Hallo Lestari!\nSelamat datang di MoneyMe, disini saatnya kamu mulai mencatat
-    segala pengeluaran dan pemasukan kamu dimana saja dan kapan saja! </string>
+    <string name="intro">"Hallo Lestari! Selamat datang di MoneyMe, disini saatnya kamu mulai mencatat     segala pengeluaran dan pemasukan kamu dimana saja dan kapan saja! "</string>
     <string name="list_kosong">Belum ada data</string>
     <string name="x_diklik">%1$s diklik!</string>
     <string name="atur_keuangan">MoneyMe </string>
-    <string name="tambah_error">Belum bisa tambah catatan.</string>
     <string name="keterangan">Keterangan</string>
     <string name="tanggal">Tanggal</string>
     <string name="nominal">Nominal</string>
@@ -25,8 +23,7 @@
     <string name="grid">Tampilan grid</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <string name="share">Share Data</string>
-    <string name="copyright">Hallo, Selamat Datang Lestari!\nCobalah untuk mulai menghitung pemasukan
-        dan pengeluaran anda, supaya anda tau apakah anda orang yang hemat? Sudah mencatatat keuangan anda hari ini?
-    \n\nAplikasi ini dibuat untuk Assessment 2.\n\nCopyright ©2024 Lestari Saja.\n
-    All rights reserved.</string>
+    <string name="copyright">Hallo, Selamat Datang Lestari! Cobalah untuk mulai menghitung pemasukan         dan pengeluaran anda, supaya anda tau apakah anda orang yang hemat? Sudah mencatatat keuangan anda hari ini?       Aplikasi ini dibuat untuk Assessment 2.  Copyright ©2024 Lestari Saja.      All rights reserved.</string>
+    <string name="tambah_error">Belum bisa tambah catatan</string>
+    <string name="copyright">Hallo, Selamat Datang Lestari! Cobalah untuk mulai menghitung pemasukan         dan pengeluaran anda, supaya anda tau apakah anda orang yang hemat? Sudah mencatatat keuangan anda hari ini?       Aplikasi ini dibuat untuk Assessment 2.  Copyright ©2024 Lestari Saja.      All rights reserved.</string>
 </resources>
